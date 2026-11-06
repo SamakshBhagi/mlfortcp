@@ -1,0 +1,12 @@
+{
+ "name": "wt_c0.1_s1",
+ "mode": "wt",
+ "cost": 0.1,
+ "hold": 0.1,
+ "tripwire": 0,
+ "seed": 1,
+ "episodes": 1500,
+ "per_iter": 8,
+ "port": 5303,
+ "resume": 0
+}

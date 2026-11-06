@@ -1,0 +1,12 @@
+{
+ "name": "fp400_s2",
+ "mode": "fp",
+ "cost": 0.1,
+ "hold": 0.4,
+ "tripwire": 0,
+ "seed": 2,
+ "episodes": 1500,
+ "per_iter": 8,
+ "port": 5318,
+ "resume": 150
+}

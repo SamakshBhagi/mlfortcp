@@ -1,0 +1,12 @@
+{
+ "name": "st_c0.1_s3",
+ "mode": "st",
+ "cost": 0.1,
+ "hold": 0.1,
+ "tripwire": 1,
+ "seed": 3,
+ "episodes": 1500,
+ "per_iter": 8,
+ "port": 5307,
+ "resume": 0
+}

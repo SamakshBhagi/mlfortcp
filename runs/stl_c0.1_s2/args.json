@@ -1,0 +1,12 @@
+{
+ "name": "stl_c0.1_s2",
+ "mode": "stl",
+ "cost": 0.1,
+ "hold": 0.1,
+ "tripwire": 1,
+ "seed": 2,
+ "episodes": 1500,
+ "per_iter": 8,
+ "port": 5317,
+ "resume": 150
+}

@@ -1,0 +1,3 @@
+package stcc;
+
+@license(LGPL);
