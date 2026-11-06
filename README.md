@@ -2,7 +2,7 @@
 
 Code, trained policies and raw results for the paper
 
-> S. Bhagi and S. Narang, *Learning When to Act: Self-Triggered Reinforcement Learning for Supervising TCP Congestion Control*, 2026. Submitted to *Information Sciences*. Preprint: arXiv:XXXX.XXXXX
+> S. Bhagi and S. Narang, *Learning When to Act: Self-Triggered Reinforcement Learning for Supervising TCP Congestion Control*, 2026. Submitted to *Information Sciences*.
 
 A learned supervisor sets the parameters of a lightweight congestion-control executor that runs in the transport stack. Most designs call the supervisor every few tens of milliseconds. This repository contains everything needed to compare that with alternatives under identical conditions:
 
